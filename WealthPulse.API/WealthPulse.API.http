@@ -1,0 +1,6 @@
+@WealthPulse.API_HostAddress = http://localhost:5031
+
+GET {{WealthPulse.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
