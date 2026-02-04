@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WealthPulse.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57878e70d1adee22f2e6a18ebe14f488d6a8d93d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4b50f200f1ddd630f756e89d183e3f6fb05669a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WealthPulse.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WealthPulse.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
