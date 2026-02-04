@@ -1,0 +1,13 @@
+## .NET
+appsettings.Development.json
+appsettings.Production.json
+*.user
+*.suo
+bin/
+obj/
+
+## Frontend
+node_modules/
+app.js
+app.js.map
+package-lock.json
